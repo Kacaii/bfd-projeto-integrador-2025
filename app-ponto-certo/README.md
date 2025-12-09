@@ -16,7 +16,7 @@ Sistema completo de gestão de ponto de venda (PDV) desenvolvido em Python com i
 
 ```powershell
 git clone <url-do-repositorio>
-cd apppontocerto
+cd app-ponto-certo
 ```
 
 #### 2. Crie o ambiente virtual
