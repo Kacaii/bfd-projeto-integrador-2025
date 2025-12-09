@@ -63,7 +63,7 @@ python app.py
 
 ```bash
 git clone <url-do-repositorio>
-cd apppontocerto1
+cd apppontocerto
 ```
 
 #### 2. Instale as dependências do sistema (se necessário)
