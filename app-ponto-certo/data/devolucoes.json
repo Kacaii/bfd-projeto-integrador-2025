@@ -1,0 +1,34 @@
+[
+  {
+    "id": "e6364efe-8aa2-4d94-9964-c453ed8b3cdd",
+    "produto_id": 2,
+    "produto_nome": "Feijão Turquesa Macassar 1kg",
+    "quantidade": 1,
+    "preco_unitario": 8.0,
+    "valor_total": 8.0,
+    "motivo": "Estorno de Venda #27",
+    "data": "2025-12-06T15:18:55.066992",
+    "foi_trocado": true,
+    "troca_info": {
+      "id": "bbdef122-0753-454a-84c6-02a305c586f5",
+      "devolucao_id": "e6364efe-8aa2-4d94-9964-c453ed8b3cdd",
+      "produto_id_original": 2,
+      "produto_nome_original": "Feijão Turquesa Macassar 1kg",
+      "novo_produto_id": 1,
+      "novo_produto_nome": "Café Pilão 250g",
+      "valor_original": 8.0,
+      "quantidade": 1,
+      "data_troca": "2025-12-06T17:42:42.538746"
+    }
+  },
+  {
+    "id": "aa04c01a-ed42-46f5-8871-612e348d891b",
+    "produto_id": 3,
+    "produto_nome": "Arroz Tipo 1 5kg",
+    "quantidade": 1,
+    "preco_unitario": 27.5,
+    "valor_total": 27.5,
+    "motivo": "Estorno de Venda #28",
+    "data": "2025-12-06T15:21:34.555369"
+  }
+]

@@ -1,0 +1,33 @@
+# Ambiente virtual
+.venv/
+
+# Caches do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Arquivos de log
+*.log
+
+# Banco de dados local (SQLite)
+*.db
+*.sqlite3
+
+# Arquivos gerados pelo Flet / temporários
+*.tmp
+
+# Relatórios e exports gerados em runtime
+exports/
+
+# Arquivos de lock específicos de gerenciadores (opcional)
+poetry.lock
+uv.lock
+
+# Configurações de editor/IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
